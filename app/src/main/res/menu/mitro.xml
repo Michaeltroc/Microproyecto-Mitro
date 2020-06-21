@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_aprender"
+        android:icon="@drawable/ic_baseline_emoji_objects_24"
+        android:title="@string/btn_menuAprender" />
+
+    <item
+        android:id="@+id/nav_jugar"
+        android:icon="@drawable/ic_baseline_sports_esports_24"
+        android:title="@string/btn_menuDivertirse" />
+
+</menu>

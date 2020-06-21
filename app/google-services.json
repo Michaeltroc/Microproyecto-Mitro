@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871067161666",
+    "firebase_url": "https://firabasemitro.firebaseio.com",
+    "project_id": "firabasemitro",
+    "storage_bucket": "firabasemitro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871067161666:android:3fa457a0d719fb4e9689db",
+        "android_client_info": {
+          "package_name": "unicauca.edu.mitro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871067161666-f19jik1he58jtgvun6q2214n76fhjm01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "unicauca.edu.mitro",
+            "certificate_hash": "b92087de7e73f07d5d4ff98fe5682e761843ab48"
+          }
+        },
+        {
+          "client_id": "871067161666-o2p68k16o5tbtaj4rc46ckqgj26hff33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb86aDiEN-vrA26C6Duf_444KrmAqf_Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871067161666-o2p68k16o5tbtaj4rc46ckqgj26hff33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

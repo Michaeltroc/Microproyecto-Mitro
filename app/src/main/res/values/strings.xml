@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Mitro</string>
+    <string name="text_viewcorreo">Correo electronico</string>
+    <string name="text_viewccontraseña">Contraeña</string>
+    <string name="txt_correo">example@gmail.com</string>
+    <string name="txt_contraseña">*************</string>
+    <string name="btn_registrar">REGISTRAR</string>
+    <string name="btn_iniciarsesion">INICIAR SESION</string>
+    <string name="txt_userprincipal">¡Bienvenido!</string>
+    <string name="ImageView"></string>
+    <string name="Imagelogolargo"></string>
+    <string name="fragment_perfil">DALE</string>
+    <string name="aprende_a_sumar">APRENDE A SUMAR</string>
+    <string name="aprende_a_restar">APRENDE A RESTAR</string>
+    <string name="aprende_a_multiplicar">APRENDE A MULTIPLICAR</string>
+    <string name="aprende_a_dividir">APRENDE A DIVIDIR</string>
+    <string name="textview_jugar">A continuacion pondras en practica todo lo que aprendiste.</string>
+    <string name="textview_estasliso"> ¿Estas Listo?</string>
+    <string name="textview_empezar">EMPEZAR</string>
+    <string name="btn_menuAprender">Aprender</string>
+    <string name="btn_menuDivertirse">Divertirse</string>
+    <string name="text_viewPregunta">Pregunta 1</string>
+    <string name="textviewPuntuacion">Puntuacion: 0</string>
+    <string name="btn_menuPerfilr">Perfil</string>
+    <string name="textview_time">00:30</string>
+
+    <string name="Radiobuttonopc1">Opcion 1</string>
+    <string name="Radiobuttonopc2">Opcion 2</string>
+    <string name="Radiobuttonopc3">Opcion 3</string>
+    <string name="Radiobuttonopc4">Opcion 4</string>
+
+
+    <string name="btn_confirmar">CONFIRMAR</string>
+    <string name="textviewlaspreguntas">¿What´s up bro?</string>
+
+
+
+    <string name="definicionsuma"> La suma es el agregado de cosas. El término hace referencia a
+        la acción y efecto de sumar o añadir, como operación matemática, la suma o adhesión consiste
+        en añadir dos números o más para obtener una cantidad total.El proceso también permite reunir dos grupos de cosas
+        para obtener un único conjunto.
+    </string>
+    <string name="txtviewsuma">LA SUMA</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

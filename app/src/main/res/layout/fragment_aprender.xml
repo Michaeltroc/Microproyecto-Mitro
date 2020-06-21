@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.Perfil">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn_ApreDividir"
+            android:layout_width="195dp"
+            android:layout_height="56dp"
+            android:layout_marginTop="40dp"
+            android:text="@string/aprende_a_dividir"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.222"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_ApreMultiplicar"
+            android:background="#F8F8CC"/>
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="76dp"
+            android:layout_height="51dp"
+            android:layout_marginTop="52dp"
+            android:contentDescription="@string/Imagelogolargo"
+            android:src="@drawable/porciento"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.328"
+            app:layout_constraintStart_toEndOf="@+id/btn_ApreDividir"
+            app:layout_constraintTop_toBottomOf="@+id/imageView6" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="76dp"
+            android:layout_height="51dp"
+            android:layout_marginTop="48dp"
+            android:contentDescription="@string/Imagelogolargo"
+            android:src="@drawable/menos"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.328"
+            app:layout_constraintStart_toEndOf="@+id/btn_ApreRestar"
+            app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="76dp"
+            android:layout_height="51dp"
+            android:layout_marginTop="172dp"
+            android:contentDescription="@string/Imagelogolargo"
+            android:src="@drawable/mas"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.328"
+            app:layout_constraintStart_toEndOf="@+id/btn_ApreSumar"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/btn_ApreSumar"
+            android:layout_width="195dp"
+            android:layout_height="56dp"
+            android:layout_marginTop="172dp"
+            android:text="@string/aprende_a_sumar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.222"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:background="#DEF6E1"/>
+
+        <Button
+            android:id="@+id/btn_ApreRestar"
+            android:layout_width="195dp"
+            android:layout_height="56dp"
+            android:layout_marginTop="40dp"
+            android:text="@string/aprende_a_restar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.222"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_ApreSumar"
+            android:background="#DEE0F6"/>
+
+        <Button
+            android:id="@+id/btn_ApreMultiplicar"
+            android:layout_width="195dp"
+            android:layout_height="56dp"
+            android:layout_marginTop="40dp"
+            android:text="@string/aprende_a_multiplicar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.222"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_ApreRestar"
+            android:background="#F6DEDE"/>
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="76dp"
+            android:layout_height="51dp"
+            android:layout_marginTop="40dp"
+            android:contentDescription="@string/Imagelogolargo"
+            android:src="@drawable/cruzar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.328"
+            app:layout_constraintStart_toEndOf="@+id/btn_ApreMultiplicar"
+            app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</FrameLayout>
